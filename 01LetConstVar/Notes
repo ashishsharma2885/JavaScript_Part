@@ -1,0 +1,13 @@
+/*1 - Const : Const matalb jo ek baar delcalred kr diye usko change nhi kar skte hai 
+2 - Var : var jo aage jake sayad change kar skte 
+3 - curly {} jo hota hai whi apka scope hai
+4 - var ko kbhi use nhi karna chaye because of use scope
+5 - javascript ek aisa languge hai bina memory reversed 
+kiye hue memory reversed kar skte ho like - accountCity = "jaipur"
+6- agar javascript me varable delcared kar ke chor dete hai toh 
+aur value assign nhi karte hai tho uski value undefind hoti hai
+like let accountState = "Jaipur"
+console.log(accountState)
+output = undefind
+*/
+

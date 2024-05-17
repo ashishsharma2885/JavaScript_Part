@@ -1,0 +1,37 @@
+ /*Topic - variable
+2 Const- Const ka matlab kbhi change nhi kiya ja skta jo value app ek baar asigned kr di whi lock ho gya.
+3 let - yh hamesha change kr skte hai phir different hi kya hai var use kr lete hai.
+4 scope kya hai jo hm curlybrace{} likhte hai ussi ko scope bolte hai.
+Prefer not to use var
+because of issue in block and functional scope
+*/
+
+/* Topic - DataType 
+"use strick": treast all JS code never version
+ 1- Number-2 to power 53
+ 2- String- ""
+ 3- boolean- boolean hai ya to ha ya na  Example- ya toh user login hai ya nhi, 
+ ya toh server se response aaya hai ya toh nhi
+ 4- Null- standalone value hai null ek represention empy ka maan lijiye server ko se response mangi wh 
+ 0 bhej deta hai us case me mujhe 0 nhi chaye 0 toh ek case hai null refer karung 
+ 5- undefined- undefined hai hai jo value hmne defiened nhi kiye hai 
+ example- like let state; abhi tk variable declared kiya hu lekin koi value assinged nhi kiya hu
+ // symbol- jb bhi baat unique ke symbol ke liye baat karenge
+*/
+
+/* Topic - conversionOperation 
+ "33"- 33
+ "33abc" => NaN
+ true => 1; false => 0
+*/
+
+/* Topic- Operation
+
+ */
+
+/* Topic - ShotNotes 
+alert(3 + 3) // we are using nodejs, not browser
+code - readalbe hona chaye
+*/
+
+
